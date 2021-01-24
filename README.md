@@ -17,6 +17,11 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 
 ## Tree
 
+## Hash Table
+| Title | Solution | Time | Space | Difficulty | Note
+|---| ---| ---| ---| ---| ---|
+| 1 | <a href="https://leetcode.com/problems/two-sum/">Two Sum</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/TwoSum.py">Python</a> | 
+
 ## Math
 
 ## Sort
