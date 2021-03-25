@@ -8,6 +8,9 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 ## Shell
 
 ## Bit Manipulation
+| Title | Solution | Time | Space | Difficulty | Note
+|---| ---| ---| ---| ---| ---|
+| 1 | <a href="https://leetcode.com/problems/1-bit-and-2-bit-characters/">1-bit and 2-bit Characters</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/OneBitTwoBitCharacters.py">Python</a> | | Easy
 
 ## Stack
 
