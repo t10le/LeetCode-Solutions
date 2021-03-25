@@ -13,7 +13,9 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 | 1 | <a href="https://leetcode.com/problems/1-bit-and-2-bit-characters/">1-bit and 2-bit Characters</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/OneBitTwoBitCharacters.py">Python</a> | | Easy
 
 ## Stack
-
+| Title | Solution | Time | Space | Difficulty | Note
+|---| ---| ---| ---| ---| ---|
+| 1 | <a href="https://leetcode.com/problems/132-pattern/">Two Sum</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/132Pattern.py">Python</a> | | Medium
 ## Queue
 
 ## Binary Heap
