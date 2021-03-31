@@ -6,7 +6,7 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 ## String
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
-| 67 | <a href="https://leetcode.com/problems/add-binary/">Add Binary</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/OneBitTwoBitCharacters.py">Python</a> | | | Easy | |
+| 67 | <a href="https://leetcode.com/problems/add-binary/">Add Binary</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/OneBitTwoBitCharacters.py">Python</a> | O(n) | | Easy | |
 
 ## Bit Manipulation
 | # | Title | Solution | Time | Space | Difficulty | Note
