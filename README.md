@@ -2,7 +2,9 @@
 Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I can complete ALL 1723 LeetCode problems on my own. Let the journey begin!
 
 ## Array
-
+| # | Title | Solution | Time | Space | Difficulty | Note
+|---| ---| ---| ---| ---| ---| ---|
+| 999 | <a href="https://leetcode.com/problems/available-captures-for-rook/">Available Captures for Rook</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/available-captures-for-rook.py">Python</a> | O(n) | | Easy | Possible to do O(1)..Rework this |
 ## String
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
