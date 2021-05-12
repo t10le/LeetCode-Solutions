@@ -5,6 +5,7 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
 | 999 | <a href="https://leetcode.com/problems/available-captures-for-rook/">Available Captures for Rook</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/available-captures-for-rook.py">Python</a> | O(n) | | Easy | Possible to do O(1)..Rework this |
+
 ## String
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
@@ -37,6 +38,9 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 
 
 ## Math
+| # | Title | Solution | Time | Space | Difficulty | Note
+|---| ---| ---| ---| ---| ---| ---|
+| 258 | <a href="https://leetcode.com/problems/add-digits/">Add Digits</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/add-digits.py">Python</a> | O(1) | O(1) | Easy | Recursion/loop is trival; to get O(1), you must use digital root properties |
 
 ## Sort
 
