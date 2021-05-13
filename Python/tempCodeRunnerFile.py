@@ -1,2 +1,2 @@
-            # if len(stack) >= 2 and stack[-1] <= stack[-2]:
-            #     stack.pop()
+        # if newNums[-2] <= newNums[-1] / 2:
+        #     return nums.index(max(nums))
