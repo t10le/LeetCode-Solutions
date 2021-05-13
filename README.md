@@ -5,6 +5,7 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
 | 999 | <a href="https://leetcode.com/problems/available-captures-for-rook/">Available Captures for Rook</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/available-captures-for-rook.py">Python</a> | O(n) | | Easy | Possible to do O(1)..Rework this |
+|747| <a href="https://leetcode.com/problems/largest-number-at-least-twice-of-others/">Largest Number At Least Twice Of Others</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/largest-number-at-least-twice-of-others.py">Python</a> |O(n)|O(1)|Easy|Consider avoiding sort to improve time complexity, albeit it's still O(n) whether you sort or not.|
 
 ## String
 | # | Title | Solution | Time | Space | Difficulty | Note
