@@ -35,14 +35,14 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 ## Hash Table
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
-| 1 | <a href="https://leetcode.com/problems/two-sum/">Two Sum</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/TwoSum.py">Python</a> |  | | Easy |  |
-|748| <a href="https://leetcode.com/problems/shortest-completing-word/">Shortest Completing Word</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/shortest-completing-word.py">Python</a> |O(n^2)|O(n)|Easy|not space efficient, must rework.|
+| 1 | <a href="https://leetcode.com/problems/two-sum/">Two Sum</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/TwoSum.py">Python</a> |  | | Easy | Slow AF, highly inefficient...rework using hash table |
+|748| <a href="https://leetcode.com/problems/shortest-completing-word/">Shortest Completing Word</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/shortest-completing-word.py">Python</a> |O(n^2)|O(n)|Easy|not space efficient, must rework using hash table.|
 
 
 ## Math
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
-| 258 | <a href="https://leetcode.com/problems/add-digits/">Add Digits</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/add-digits.py">Python</a> | O(1) | O(1) | Easy | Recursion/loop is trival; to get O(1), you must use digital root properties |
+| 258 | <a href="https://leetcode.com/problems/add-digits/">Add Digits</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/add-digits.py">Python</a> | O(1) | O(1) | Easy | Recursion/loop is trival; to get O(1), you must use digital root properties instead|
 
 ## Sort
 
