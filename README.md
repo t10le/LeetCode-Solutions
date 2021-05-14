@@ -36,6 +36,7 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
 | 1 | <a href="https://leetcode.com/problems/two-sum/">Two Sum</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/TwoSum.py">Python</a> |  | | Easy |  |
+|748| <a href="https://leetcode.com/problems/shortest-completing-word/">Shortest Completing Word</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/shortest-completing-word.py">Python</a> |O(n^2)|O(n)|Easy|not space efficient, must rework.|
 
 
 ## Math
