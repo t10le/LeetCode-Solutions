@@ -12,6 +12,7 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 |---| ---| ---| ---| ---| ---| ---|
 | 67 | <a href="https://leetcode.com/problems/add-binary/">Add Binary</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/AddBinary.py">Python</a> | O(n) | | Easy | |
 | 1108 | <a href="https://leetcode.com/problems/defanging-an-ip-address/submissions/">Defanging an IP Address</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/defang-an-ip-address.py">Python</a> | O(n) |  | Easy | |
+|1544| <a href="https://leetcode.com/problems/make-the-string-great/">Make The String Great</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/make-the-string-great.py">Python</a> |O(n^2)|O(n)|Easy|not space efficient, must rework.|
 | 1758 | <a href="https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/">Minimum Changes To Make Alternating Binary String</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/minimum-changes-to-make-alternating-binary-string.py"> Python</a>| O(n) | O(1) | Easy | |
 
 ## Bit Manipulation
