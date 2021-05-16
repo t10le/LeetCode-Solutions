@@ -32,6 +32,9 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 ## Binary Heap
 
 ## Tree
+| # | Title | Solution | Time | Space | Difficulty | Note
+|---| ---| ---| ---| ---| ---| ---|
+|144| <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">Binary Tree Preorder Traversal</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/binary-tree-preorder-traversal.py">Python</a> |O(n)|O(n)|Easy|iteration with loop is faster than trival recursion.|
 
 ## Hash Table
 | # | Title | Solution | Time | Space | Difficulty | Note
