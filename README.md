@@ -34,7 +34,7 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 ## Tree
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
-|94| <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/binary-tree-inorder-traversal.py">Python</a> |O(n)|O(n)|Easy|iteration is faster than recursion|
+|94| <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/binary-tree-inorder-traversal.py">Python</a> |O(n)|O(n)|Easy|iteration is more space efficient than recursion for inorder|
 |144| <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">Binary Tree Preorder Traversal</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/binary-tree-preorder-traversal.py">Python</a> |O(n)|O(n)|Easy|iteration with loop is faster than trival recursion.|
 |145| <a href="https://leetcode.com/problems/binary-tree-postorder-traversal/">Binary Tree Postorder Traversal</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/binary-tree-postorder-traversal.py">Python</a> |O(n)|O(n)|Easy|iteration is faster than recursion|
 
