@@ -18,7 +18,7 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 ## Bit Manipulation
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
-| 717 | <a href="https://leetcode.com/problems/1-bit-and-2-bit-characters/">1-bit and 2-bit Characters</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/OneBitTwoBitCharacters.py">Python</a> | O(n) |  | Easyy | |
+| 717 | <a href="https://leetcode.com/problems/1-bit-and-2-bit-characters/">1-bit and 2-bit Characters</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/OneBitTwoBitCharacters.py">Python</a> | O(n) |  | Easy | |
 
 
 ## Stack
