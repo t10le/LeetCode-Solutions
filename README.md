@@ -6,7 +6,7 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 |---| ---| ---| ---| ---| ---| ---|
 | 999 | <a href="https://leetcode.com/problems/available-captures-for-rook/">Available Captures for Rook</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/available-captures-for-rook.py">Python</a> | O(n) | | Easy | Possible to do O(1)..Rework this |
 |747| <a href="https://leetcode.com/problems/largest-number-at-least-twice-of-others/">Largest Number At Least Twice Of Others</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/largest-number-at-least-twice-of-others.py">Python</a> |O(n)|O(1)|Easy|Consider avoiding sort to improve time complexity, albeit it's still O(n) whether you sort or not.|
-|1534| <a href="https://leetcode.com/problems/count-good-triplets/">Count Good Triplets</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/83cd23c0c3f2a54969695813a5af314a931c4213/Python/count-good-triplets.py">Python</a> |O(n^3)|O(n)|Easy|brute force...possible to do O(n^2) with Fenwick tree??|
+|1534| <a href="https://leetcode.com/problems/count-good-triplets/">Count Good Triplets</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/83cd23c0c3f2a54969695813a5af314a931c4213/Python/count-good-triplets.py">Python</a> |O(n^3)|O(n)|Easy|brute force...possible to do O(n^2) with Fenwick tree??|k
 
 ## String
 | # | Title | Solution | Time | Space | Difficulty | Note
