@@ -3,17 +3,21 @@ from typing import *
 
 class Solution:
     def diagonalSum(self, mat: List[List[int]]) -> int:
+        """Returns the sum of matrix diagonals."""
         # -- Submission Stats (as of May 30, 2021) --
         # Time Complexity: O(n)
         # Runtime: 28ms, faster than 95.34%
         # Space Complexity: O(n)
         # Memory Usage: 14.1 MB, less than 91.40%
-
+        
         total = 0
+        
+        # Add all diagonal values, regardless of whether the 2D array is odd or even in length.
         for i in range(len(mat)):
-            if i != (len(mat) - 1 - i):
-                total += mat[i][i] + mat[i][len(mat) - 1 - i]
-            else:
-                total += mat[i][i]
-                
+            total += mat[i][i] + mat[i][len(mat) - 1 - i]
+            
+        # Filter out the center element if the 2D array is odd in length.    
+        if len(mat) % 2 != 0:
+            total -= mat[len(mat)//2][len(mat[0])//2]
+            
         return total
