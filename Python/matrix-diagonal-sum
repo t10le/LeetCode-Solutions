@@ -6,9 +6,9 @@ class Solution:
         """Returns the sum of matrix diagonals."""
         # -- Submission Stats (as of May 30, 2021) --
         # Time Complexity: O(n)
-        # Runtime: 28ms, faster than 95.34%
+        # Runtime: 104ms, faster than 82.11%
         # Space Complexity: O(n)
-        # Memory Usage: 14.1 MB, less than 91.40%
+        # Memory Usage: 14.5 MB, less than 73.56%
         
         total = 0
         
