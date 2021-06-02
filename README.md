@@ -1,5 +1,5 @@
 # LeetCode-Solutions
-Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I can complete ALL 1723 LeetCode problems on my own. Let the journey begin!
+Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I can complete ALL 1723 LeetCode problems on my own. Let the journey begin!s
 
 ## Array
 | # | Title | Solution | Time | Space | Difficulty | Note
