@@ -12,6 +12,7 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 ## String
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
+|7| <a href="https://leetcode.com/problems/reverse-integer/">Reverse Integer</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/reverse-integer.py">Python</a> |O(n)|O(n)|Easy||
 | 67 | <a href="https://leetcode.com/problems/add-binary/">Add Binary</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/AddBinary.py">Python</a> | O(n) | | Easy | |
 | 1108 | <a href="https://leetcode.com/problems/defanging-an-ip-address/submissions/">Defanging an IP Address</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/defang-an-ip-address.py">Python</a> | O(n) |  | Easy | |
 |1544| <a href="https://leetcode.com/problems/make-the-string-great/">Make The String Great</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/make-the-string-great.py">Python</a> |O(n)|O(n)|Easy|it's possible to remove line 14; just don't index it weird; oddly, .pop(-1) performs better than .pop(), even though it does the same thing|
