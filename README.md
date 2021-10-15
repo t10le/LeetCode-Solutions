@@ -63,6 +63,9 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 ## Recursion
 
 ## Binary Search
+| # | Title | Solution | Time | Space | Difficulty | Note
+|---| ---| ---| ---| ---| ---| ---|
+|7| <a href="https://leetcode.com/problems/binary-search/">Binary Search</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/binary-search.py">Python</a> |O(log(n))|O(n)|Easy||
 
 ## Binary Search Tree
 
