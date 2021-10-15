@@ -27,7 +27,7 @@ class Solution:
         # -- Submission Stats (as of Oct 15, 2021) --
         # Time Complexity: O(log(n))
         # Runtime: 239ms, faster than 63.51%
-        # Space Complexity: O(n)
+        # Space Complexity: O(1)
         # Memory Usage: 15.5 MB, less than 42.23%
         left = 0
         right = len(nums) - 1
