@@ -66,6 +66,7 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
 |7| <a href="https://leetcode.com/problems/binary-search/">Binary Search</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/binary-search.py">Python</a> |O(log(n))|O(1)|Easy||
+|278| <a href="https://leetcode.com/problems/first-bad-version/">First Bad Version</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/first-bad-version.py">Python</a> |O(log(n))|O(n)|Easy|slightly modified binary search|
 
 ## Binary Search Tree
 
