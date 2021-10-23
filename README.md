@@ -59,6 +59,9 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 ## Sort
 
 ## Two Pointers
+| # | Title | Solution | Time | Space | Difficulty | Note
+|---| ---| ---| ---| ---| ---| ---|
+|977| <a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Squares Of A Sorted Array</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/squares-of-a-sorted-array.py">Python</a> |O(n)|O(1)|Easy|use of raw pointers on a dummy list
 
 ## Recursion
 
