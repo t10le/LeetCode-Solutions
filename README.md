@@ -61,6 +61,7 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 ## Two Pointers
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
+|344| <a href="https://leetcode.com/problems/reverse-string/">Reverse String</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/reverse-string.py">Python</a> |O(n)|O(1)|Easy||
 |977| <a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Squares Of A Sorted Array</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/squares-of-a-sorted-array.py">Python</a> |O(n)|O(1)|Easy|use of raw pointers on a dummy list
 
 ## Recursion
