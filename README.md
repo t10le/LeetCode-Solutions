@@ -56,6 +56,7 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 ## Math
 | # | Title | Solution | Time | Space | Difficulty | Note
 |---| ---| ---| ---| ---| ---| ---|
+|9| <a href="https://leetcode.com/problems/palindrome-number/">Palindrome Number</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/palindrome-number.py">Python</a> |O(n)|O(n)|Easy|Use of mod 10 and floor div 10 to iterate an integer without type cast|
 | 258 | <a href="https://leetcode.com/problems/add-digits/">Add Digits</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/add-digits.py">Python</a> | O(1) | O(1) | Easy | Recursion/loop is trival; to get O(1), you must use digital root properties instead|
 
 ## Sort
