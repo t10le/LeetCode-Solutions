@@ -1,7 +1,7 @@
 # LeetCode-Solutions
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br>
-Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I can complete ALL 1723 LeetCode problems on my own. Let the journey begin!
+Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I can complete ALL 2050 LeetCode problems on my own. Let the journey begin!
 
 ## Array
 | # | Title | Solution | Time | Space | Difficulty | Personal Note
