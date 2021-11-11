@@ -36,6 +36,11 @@ Inspired by https://github.com/kamyu104/LeetCode-Solutions, I want to see if I c
 
 ## Queue
 
+## Linked Lists
+| # | Title | Solution | Time | Space | Difficulty | Personal Note
+|---| ---| ---| ---| ---| ---| ---|
+|21| <a href="https://leetcode.com/problems/merge-two-sorted-lists/">Merge Two Sorted Lists</a> | <a href="https://github.com/t10le/LeetCode-Solutions/blob/main/Python/merge-two-sorted-lists.py">Python</a> |O(n)|O(n)|Easy||
+
 ## Binary Heap
 
 ## Tree
